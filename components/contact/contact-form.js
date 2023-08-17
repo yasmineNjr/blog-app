@@ -98,7 +98,7 @@ function ContactForm() {
                 <div className={classes.controls}>
                     <div className={classes.subcontrols}>
                         <div className={classes.control}>
-                            <label htmlFor='email'>YOUR Email</label>
+                            <label htmlFor='email'>YOUR EMAIL</label>
                             <input type='email' 
                                     id='email' 
                                     required 

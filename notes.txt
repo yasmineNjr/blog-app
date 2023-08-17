@@ -1,0 +1,2 @@
+deployment url
+https://next-blog-app-tau-orcin.vercel.app/
