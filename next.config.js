@@ -3,7 +3,7 @@ const { PHASE_DEVELOPMENT_SERVER } = require('next/constants');
 // const nextConfig = {
 //     env: {
 //         mongodb_username: 'Rose',
-//         mongodb_password: 'MYas)955)2266',
+//         mongodb_password: 'S0aeGCqsfVmKJDAV',
 //         mongodb_clustername: 'cluster0',
 //         mongodb_database: 'my-site',
 //     }
